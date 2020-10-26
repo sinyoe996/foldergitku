@@ -1,0 +1,2 @@
+# foldergitku
+minta-minta
